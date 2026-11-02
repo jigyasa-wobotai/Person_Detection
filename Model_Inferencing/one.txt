@@ -1,0 +1,1 @@
+PYTHONPATH=. python3 tools/infer.py --weights "../best_ckpt.pt" --source "/home/kasm-user/Desktop/Model Inferencing/original_frames/ATP/main_court_floor_view2" --device cpu --save-dir "../original_frames/ATP/main_court_floor_view2/New Folder"
